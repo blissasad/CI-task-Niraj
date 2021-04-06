@@ -1,0 +1,2 @@
+client id: 914778836678-eppsbknadrp9n43c2v8c9gmnqt8ftvaj.apps.googleusercontent.com
+secret key: 3vMvOpiexbOjvcO1liIWFBrm
